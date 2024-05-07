@@ -1,4 +1,5 @@
 # frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024
+# Ebora_Zandro_Zevastien_Zyn_A_ME_42205_Screen_Shots_Group_5
 ![Ebora_Zandro_Zevastien_Zyn_A_SIMULINK_5](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/946feae0-5081-43e6-ba18-2d7f105a789b)
 ![Ebora_Zandro_Zevastien_Zyn_A_SIMULINK_6](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/25c0a431-0d76-4917-b389-8f16fad2248f)
 ![Ebora_Zandro_Zevastien_Zyn_A_MATLAB_6](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/deccfe25-b797-4135-b211-06d6b223a041)
