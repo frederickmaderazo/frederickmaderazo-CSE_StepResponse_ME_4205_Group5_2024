@@ -16,6 +16,7 @@
 ![Screenshot 2024-05-07 222257](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159031302/bf539980-068f-4348-a5c1-df3f466eccec)
 ![Screenshot 2024-05-07 223132](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159031302/7a66e143-cb70-451e-b5a1-8d81fd13f690)
 ![Screenshot 2024-05-07 223152](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159031302/c465c9ad-d787-41fd-b098-9f712209396d)
+# Buenafe_Eva_ME_4205_Screen_Shots_No1-2_Group_5
 ![Buenafe_Eva_O_MATLAB_1](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159096286/38317f46-2432-4b6f-a61c-9096d5101d46)
 ![Buenafe_Eva_O_MATLAB_2](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159096286/529204a2-fbef-4b44-9712-3120a4a2d5cd)
 ![Buenafe_Eva_O_SIMULINK_1](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159096286/813ede23-0fcf-4677-868f-91708cdaafea)
