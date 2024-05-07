@@ -6,3 +6,8 @@
 ![Ebora_Zandro_Zevastien_Zyn_A_MATLAB_5](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/cb1b5a79-9673-4f94-bd16-ee2492430bf3)
 ![Ebora_Zandro_Zevastien_Zyn_A_BLOCKDIAGRAM_6](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/bf045423-4f96-4156-9b23-2393aca34b4b)
 ![Ebora_Zandro_Zevastien_Zyn_A_BLOCKDIAGRAM_5](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159415810/9d828566-0fd0-4fbe-9f17-694c45fd30f1)
+# Rago_Ralph_Eldon_ME_4205_Screen_Shots_No3-4_Group_5
+![Rago_Ralph_Eldon_SIMULINK_4](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159045027/e1942166-3d98-4af9-82e7-92155c9b75a0)
+![Rago_Ralph_Eldon_SIMULINK_3](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159045027/bc720643-4c38-4573-beff-8b8f1640159f)
+![Rago_Ralph_Eldon_MATLAB_4](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159045027/a08723c5-b578-4833-8e3d-a130a701befe)
+![Rago_Ralph_Eldon_MATLAB_3](https://github.com/frederickmaderazo/frederickmaderazo-CSE_StepResponse_ME_4205_Group5_2024/assets/159045027/aa2c1e43-026c-4b60-bbb1-14226bf311ff)
